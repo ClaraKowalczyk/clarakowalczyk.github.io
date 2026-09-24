@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-**Ph.D Student in Computer Science**, Polytechnique Montréal, Sept 2025 - Aug 2029 (expected)
-  Research topics: 
-    • NLP, with application to Business Process Management
-    • AI Safety and Cybersecurity
+* **Ph.D Student in Computer Science**, Polytechnique Montréal, Sept 2025 - Aug 2029 (expected)\
+  Research topics: \
+    • AI Safety and Cybersecurity : Anomaly and Deviance Detection in event logs and execution traces
+    • NLP, with application to Business Process Management\
 
-**Ph.D Student in Computer Science**, Ecole de Technologie Supérieure, Sept 2024 - June 2025
-  Research topics : 
-    • AI Reliability : anomaly detection, uncertainty quantification, confidence indicator
-    • Control Theory : model predictive control, optimal control
+* **Ph.D Student in Computer Science**, Ecole de Technologie Supérieure, Sept 2024 - June 2025\
+  Research topics : \
+    • AI Reliability : anomaly detection, uncertainty quantification, confidence indicator\
+    • Control Theory : model predictive control, optimal control\
 
-**M.Ing. in Computer Science**, Polytechnique Montréal, Sept 2022 - Aug. 2024
+* **M.Ing. in Computer Science**, Polytechnique Montréal, Sept 2022 - Aug. 2024\
   Professional master degree, consisting in academic courses and an intership. Studied topics included artificial intelligence, computer vision and software development.
 
-**Mechanical Engineering Degree**, Ecole des Ponts Paristech, Sept 2020 - Aug. 2022
+* **Mechanical Engineering Degree**, Ecole des Ponts Paristech, Sept 2020 - Aug. 2022\
   Graduate program consisting in academic courses, practical projets, internships, along with human sciences, economics and language requirements. Specialization in robotics, prototyping and system control.
 
-**Undergraduate studies (PTSI-PT\*)**, Lycée de Cachan, Sept 2020 - Aug. 2022
+* **Undergraduate studies (PTSI-PT\*)**, Lycée de Cachan, Sept 2020 - Aug. 2022\
   Two years preparation program for national selection tests to enter french engineering schools. Intensive courses in mathematics, physics, engineering, computer science.
 
 
